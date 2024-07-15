@@ -3,3 +3,5 @@ Kasa kai
 hola
 Sawadi ka
 Namastey
+Ciao
+Bonjour
